@@ -7,6 +7,7 @@ const config = {
     duellUser: "duellus",
     duellPass: "WebUpdate!",
     rucoUrl: "https://www.ruco.no/kundeprisliste?q=kLVMVcM6THwQ1JHF5Qe19ooSTF5MLj3d",
+    test: "Hei",
   };
 
 module.exports = config;
